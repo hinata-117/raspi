@@ -1,7 +1,7 @@
 # raspi
 ![README](https://img.shields.io/badge/raspi-Readme-orange)
 
-Raspberry pi GPIO sample program
+Raspberry Pi GPIO sample program
 
 # Requirement
 ![Requirement](https://img.shields.io/badge/Requirement-Development%20environment-orange)
@@ -13,7 +13,7 @@ Raspberry pi GPIO sample program
 # Reference
 ![Reference](https://img.shields.io/badge/Reference-document-orange)
 
-(1) [RaspberryPi hardware](https://www.raspberrypi.org/documentation/hardware/raspberrypi/)
+(1) [Raspberry Pi hardware](https://www.raspberrypi.org/documentation/hardware/raspberrypi/)
 
 # Author
 ![Author](https://img.shields.io/badge/Author-hinata-orange)
