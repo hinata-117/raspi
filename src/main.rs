@@ -1,6 +1,6 @@
 /**
  * Raspberry pi GPIO sample program
- * @file gpio.rs
+ * @file main.rs
  * @author hinata
  * @date 2021/05/08 created
  */
