@@ -1,7 +1,7 @@
 # raspi
 ![README](https://img.shields.io/badge/raspi-Readme-orange)
 
-program for raspi gpio
+Raspberry pi GPIO sample program
 
 # Requirement
 ![Requirement](https://img.shields.io/badge/Requirement-Development%20environment-orange)
