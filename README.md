@@ -11,7 +11,7 @@ program for raspi gpio
 - Rust(https://www.rust-lang.org/tools/install)
 
 # Reference
-![Reference](https://img.shields.io/badge/document-orange)
+![Reference](https://img.shields.io/badge/Reference-document-orange)
 (1) [RaspberryPi hardware](https://www.raspberrypi.org/documentation/hardware/raspberrypi/)
 
 # Author
